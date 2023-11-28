@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2810_test_tbl</name>
+   <tag></tag>
+   <elementGuidId>a77b4dde-52e4-4c78-baff-8ba4d5dd588a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flowchart-operator-title.ui-draggable-handle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='example_3_step_1698926756178']/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>416dc049-1e86-4c8c-9632-ef37a4775892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flowchart-operator-title ui-draggable-handle</value>
+      <webElementGuid>7424ed3c-5c6c-4c27-9da4-b38ae2658d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2810_test_tbl</value>
+      <webElementGuid>0ed8570c-cb94-45e6-90fe-3aa0a0a8a6f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example_3_step_1698926756178&quot;)/div[@class=&quot;flowchart-operators-layer unselectable&quot;]/div[@class=&quot;flowchart-operator flowchart-default-operator ui-draggable hover&quot;]/div[@class=&quot;flowchart-operator-title ui-draggable-handle&quot;]</value>
+      <webElementGuid>9b968608-688e-46f5-bd31-6add4051c51f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='example_3_step_1698926756178']/div/div/div[4]</value>
+      <webElementGuid>697f709e-f4bb-40d5-a50f-5b3727d9fad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[1]/following::div[1]</value>
+      <webElementGuid>7b7fb02f-cb3d-4879-ab65-6762619c5e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::div[2]</value>
+      <webElementGuid>42095e1d-91c6-4c5c-8f0d-b4b9fbd6eda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment:'])[1]/preceding::div[14]</value>
+      <webElementGuid>f125cb44-9f6d-42a4-ad57-f377cb190a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Step'])[2]/preceding::div[19]</value>
+      <webElementGuid>b2dc57f9-21e2-4a9c-9831-fa9fc8395f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2810_test_tbl']/parent::*</value>
+      <webElementGuid>084db59b-11e3-45fe-8470-71d85d85fc2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[4]</value>
+      <webElementGuid>08479ffe-b3e9-4f41-bf4e-dbec4fe301b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2810_test_tbl' or . = '2810_test_tbl')]</value>
+      <webElementGuid>12581487-ef1b-4910-bfdf-44407b82e648</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Databricks</name>
+   <tag></tag>
+   <elementGuidId>4a068194-e7da-4545-90bd-0b58d5a3dfcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mr-5.active-cluster.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f29a1490-072b-4468-9603-55897e1e2004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-5 active-cluster ng-star-inserted</value>
+      <webElementGuid>816c188f-b032-4a33-9538-fcaac4ef0447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Databricks</value>
+      <webElementGuid>5b061cbf-ec0b-4a13-8284-29f2caba58e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-job-form[@class=&quot;ng-star-inserted&quot;]/app-main-nav[1]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-item&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;toggle-btns-holder&quot;]/div[@class=&quot;compute-types-holder&quot;]/div[2]/mat-radio-group[@class=&quot;mat-radio-group&quot;]/div[@class=&quot;mr-5 active-cluster ng-star-inserted&quot;]</value>
+      <webElementGuid>c9b7f3e3-50a9-48a7-9876-6679461cf107</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[2]</value>
+      <webElementGuid>13f91f9b-8f9a-4ba0-b52d-76026794c9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon EMR'])[1]/preceding::div[1]</value>
+      <webElementGuid>f01f0a5e-078c-469b-9a0e-24d4a7e56b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-radio-group/div</value>
+      <webElementGuid>56f3014b-659d-495b-85d0-2f12bb60725f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Databricks' or . = 'Databricks')]</value>
+      <webElementGuid>6e1e486b-9c11-462f-b778-3eebae397fcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

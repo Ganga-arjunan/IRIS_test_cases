@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea__input_ul small ant-input ng-tns-c_992033</name>
+   <tag></tag>
+   <elementGuidId>6e9c7700-d086-4fe8-ac81-10efa29eda9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.input_ul.small.ant-input.ng-tns-c189-163.ng-untouched.ng-valid.ant-input-status-success.ng-dirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>d008a3b9-8e00-4ca7-8250-9c9fbdaf7638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1cb22302-81c5-4d19-8dad-ddc7cdc9eb2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>7d6cce50-6f6c-4b08-93d2-2f535df9e12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Max length 100 characters</value>
+      <webElementGuid>b3e593f0-3192-479d-a71a-d5aebe0554a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input_ul small ant-input ng-tns-c189-163 ng-untouched ng-valid ant-input-status-success ng-dirty</value>
+      <webElementGuid>a6bdeb76-0204-41b2-b97e-e7f6958b7997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout app-layout ant-layout-has-sider ng-star-inserted&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/div[1]/nz-content[@class=&quot;nz_content ant-layout-content&quot;]/div[@class=&quot;inner-content&quot;]/app-add-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered ng-star-inserted&quot;]/div[@class=&quot;ant-card-body&quot;]/app-create-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ant-row create-workflow-div&quot;]/div[@class=&quot;ant-col ant-col-18 ant-col-offset-5&quot;]/div[1]/nz-form-item[@class=&quot;ant-row ant-form-item ant-form-item-has-success&quot;]/nz-form-control[@class=&quot;ng-tns-c189-163 ant-form-item-control ant-col ant-col-xs-24 ant-col-sm-14 ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c189-163&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c189-163&quot;]/textarea[@class=&quot;input_ul small ant-input ng-tns-c189-163 ng-untouched ng-valid ant-input-status-success ng-dirty&quot;]</value>
+      <webElementGuid>26dd48bd-fea5-4505-9d5d-a78503ffc042</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>5b6d361c-6147-4b14-a55c-e8419d1cb5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Max length 100 characters']</value>
+      <webElementGuid>24e782be-0b8c-42a3-b288-0e26c22149a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

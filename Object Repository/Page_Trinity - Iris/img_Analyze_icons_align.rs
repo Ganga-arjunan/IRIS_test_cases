@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Analyze_icons_align</name>
+   <tag></tag>
+   <elementGuidId>0fecf41a-f5a1-4619-806a-b396526cf481</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-1']/app-popup/div/div[2]/div/div/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>77973e60-07da-409a-be95-4411e655a800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../../../assets/iris_icons/Wrangling_page/SVG/Asset 25.svg</value>
+      <webElementGuid>b829fe0a-10dc-4543-af13-cd1e6788cd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icons_align</value>
+      <webElementGuid>6badcfb2-ea4c-441d-a919-5b492ca7e6c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-1&quot;)/app-popup[@class=&quot;ng-star-inserted&quot;]/div[1]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;icon_circle ng-star-inserted&quot;]/img[@class=&quot;icons_align&quot;]</value>
+      <webElementGuid>f3524c07-3f3d-4bc1-88a7-864c4b1d7f6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-1']/app-popup/div/div[2]/div/div/div/div[2]/img</value>
+      <webElementGuid>130442df-1238-4f5c-a769-eed9d4be06f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/img</value>
+      <webElementGuid>153a90cd-23a8-4906-8f6e-39cd7a5da2f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../../../assets/iris_icons/Wrangling_page/SVG/Asset 25.svg']</value>
+      <webElementGuid>e39b5751-884c-429f-bee6-7f988285d1b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

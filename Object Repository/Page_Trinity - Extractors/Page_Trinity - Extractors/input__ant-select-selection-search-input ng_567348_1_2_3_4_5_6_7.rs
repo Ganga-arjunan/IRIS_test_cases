@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__ant-select-selection-search-input ng_567348_1_2_3_4_5_6_7</name>
+   <tag></tag>
+   <elementGuidId>5a2431f9-cb75-4b49-b6c1-e35e86933c12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-select-selection-search-input.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div/div/nz-select/nz-select-top-control/nz-select-search/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bbad9929-76eb-46e3-bc45-0ff6404ec1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>bdbf077c-5e10-4b13-a9f5-013a574fd788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-search-input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>6088698b-170a-4018-8aa4-cac43e5da6e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>readonly</name>
+      <type>Main</type>
+      <value>readonly</value>
+      <webElementGuid>6016d1d5-6eca-4701-85f1-d1d287693152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout app-layout ant-layout-has-sider ng-star-inserted&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/div[1]/nz-content[@class=&quot;nz_content ant-layout-content&quot;]/div[@class=&quot;inner-content&quot;]/app-add-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered ng-star-inserted&quot;]/div[@class=&quot;ant-card-body&quot;]/app-extractor-load-workflow[@class=&quot;ng-star-inserted&quot;]/div[1]/div[@class=&quot;backgound-section&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-8&quot;]/nz-select[@class=&quot;ant-select ng-tns-c133-294 ant-select-show-arrow ant-select-single ng-untouched ng-pristine ng-valid ng-star-inserted cdk-focused cdk-mouse-focused ant-select-focused&quot;]/nz-select-top-control[@class=&quot;ant-select-selector ng-tns-c133-294&quot;]/nz-select-search[@class=&quot;ant-select-selection-search ng-star-inserted&quot;]/input[@class=&quot;ant-select-selection-search-input ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>17f61523-314f-43d9-9db7-187164f0b783</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/nz-select/nz-select-top-control/nz-select-search/input</value>
+      <webElementGuid>5e9bc341-8fc0-4137-83cf-a72fa94cd431</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

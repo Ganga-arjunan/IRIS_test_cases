@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__ant-select-selection-search-input ng_567348_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>fa7cd72f-1e42-4988-87f1-dc5d8007850d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nz-select-top-control.ant-select-selector.ng-tns-c133-207 > nz-select-search.ant-select-selection-search.ng-star-inserted > input.ant-select-selection-search-input.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nz-form-item[2]/nz-form-control/div/div/nz-select/nz-select-top-control/nz-select-search/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ad588110-df29-4b50-8b71-e8fa894eb355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>c3a74ae1-7113-42ab-8821-2fc62ca2ff50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-search-input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>0ed4a894-e2f9-4650-945f-6ef582133c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>readonly</name>
+      <type>Main</type>
+      <value>readonly</value>
+      <webElementGuid>01fa6962-da2d-468f-9c7b-9588e5366eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout app-layout ant-layout-has-sider ng-star-inserted&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/div[1]/nz-content[@class=&quot;nz_content ant-layout-content&quot;]/div[@class=&quot;inner-content&quot;]/app-add-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered ng-star-inserted&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-row ng-star-inserted&quot;]/div[@class=&quot;ant-col ant-col-12&quot;]/app-connection-mapping[1]/div[@class=&quot;connection form ng-star-inserted&quot;]/nz-form-item[@class=&quot;ant-row ant-form-item ng-star-inserted&quot;]/nz-form-control[@class=&quot;ng-tns-c189-206 ant-form-item-control ant-col ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c189-206&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c189-206&quot;]/nz-select[@class=&quot;ant-select ng-tns-c133-207 ng-tns-c189-206 ant-select-in-form-item ant-select-show-arrow ant-select-single ng-untouched ng-pristine ng-valid ng-star-inserted cdk-focused cdk-mouse-focused ant-select-focused&quot;]/nz-select-top-control[@class=&quot;ant-select-selector ng-tns-c133-207&quot;]/nz-select-search[@class=&quot;ant-select-selection-search ng-star-inserted&quot;]/input[@class=&quot;ant-select-selection-search-input ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>a0c47d56-8c85-4d17-b509-23609fcea621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-form-item[2]/nz-form-control/div/div/nz-select/nz-select-top-control/nz-select-search/input</value>
+      <webElementGuid>967dc964-4eda-4c7c-97b9-186bcb4209c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001-Deletion of workflow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d619677-62d4-4853-a84d-15c10fb92c90</testCaseGuid>
+</TestCaseEntity>

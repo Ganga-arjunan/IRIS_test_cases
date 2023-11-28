@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Completeness_ant-select-selection-sea_7fc466</name>
+   <tag></tag>
+   <elementGuidId>5fbfd5a5-e94b-4e21-b402-0696770bbb93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nz-select-top-control.ant-select-selector.ng-tns-c133-266 > nz-select-search.ant-select-selection-search.ng-star-inserted > input.ant-select-selection-search-input.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/nz-form-item/nz-form-control/div/div/nz-select/nz-select-top-control/nz-select-search/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6d857cf8-81a3-41c0-955a-d0b217f37a73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>2f074c6f-b7d7-4993-8793-6c2708143304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-search-input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>187cc2e5-ed71-4291-aaba-b643fc3e353b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>readonly</name>
+      <type>Main</type>
+      <value>readonly</value>
+      <webElementGuid>4c5ed40e-6aa4-4175-bebb-d6155e0d411e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout app-layout ant-layout-has-sider ng-star-inserted&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/div[1]/nz-content[@class=&quot;nz_content ant-layout-content&quot;]/div[@class=&quot;inner-content&quot;]/app-add-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered ng-star-inserted&quot;]/div[@class=&quot;ant-card-body&quot;]/app-validation-rules[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ant-row validation-rule-div&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/nz-table[@class=&quot;ant-table-wrapper table-page&quot;]/nz-spin[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container ng-star-inserted&quot;]/div[@class=&quot;ant-table&quot;]/nz-table-inner-default[@class=&quot;ant-table-container ng-star-inserted&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody ng-star-inserted&quot;]/tr[@class=&quot;ant-table-expanded-row ng-star-inserted&quot;]/td[@class=&quot;nz-disable-td ant-table-cell&quot;]/div[@class=&quot;expansion-container ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ant-row inner-item-container&quot;]/div[@class=&quot;text-center ant-col ant-col-6&quot;]/nz-form-item[@class=&quot;ant-row ant-form-item&quot;]/nz-form-control[@class=&quot;ng-tns-c189-265 ant-form-item-control ant-col ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c189-265&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c189-265&quot;]/nz-select[@class=&quot;ant-select ng-tns-c133-266 ng-tns-c189-265 ant-select-in-form-item ant-select-show-arrow ant-select-single ng-untouched ng-pristine ng-valid ng-star-inserted cdk-focused cdk-mouse-focused ant-select-focused&quot;]/nz-select-top-control[@class=&quot;ant-select-selector ng-tns-c133-266&quot;]/nz-select-search[@class=&quot;ant-select-selection-search ng-star-inserted&quot;]/input[@class=&quot;ant-select-selection-search-input ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>be31a7a9-086d-4942-81f4-330bd4667bd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nz-form-item/nz-form-control/div/div/nz-select/nz-select-top-control/nz-select-search/input</value>
+      <webElementGuid>6ebc8810-0473-41a1-b092-5d55b20313bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

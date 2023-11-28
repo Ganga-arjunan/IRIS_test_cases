@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>9834d20b-cd01-4989-bd8d-9ec9c18e71b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.anticon.ant-tree-switcher-icon.anticon-caret-down.ng-star-inserted > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to expand'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>3f0d8501-815f-4156-9f8c-ed1a26233a2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 1024 1024</value>
+      <webElementGuid>d9cd92b7-b453-49e6-bf92-ce60850b5eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>efa7fe58-a898-4cde-aafb-48a9f166762c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>cc5d8011-f35e-4b68-b0dd-ad820d9f8fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>f48073f8-ae2c-4b8c-b983-44fcdcf185a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>625e96ee-74a9-4514-9d4b-00b4409ea060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>caret-down</value>
+      <webElementGuid>88853bcf-9330-4773-94f7-9252dcf60650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e3445acc-cb7e-4520-a16e-3a55be985a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-8&quot;)/nz-modal-container[@class=&quot;ng-tns-c72-201 ng-trigger ng-trigger-modalContainer ant-modal-wrap ng-star-inserted&quot;]/div[@class=&quot;ant-modal ng-tns-c72-201&quot;]/div[@class=&quot;ant-modal-content ng-tns-c72-201&quot;]/div[@class=&quot;ant-modal-body ng-tns-c72-201&quot;]/div[@class=&quot;modal-content ng-star-inserted&quot;]/div[@class=&quot;tree-container ng-star-inserted&quot;]/nz-tree[@class=&quot;nz_tree ng-tns-c247-202 ant-tree ant-tree-icon-hide ant-tree-block-node ng-star-inserted&quot;]/div[@class=&quot;ant-tree-list ng-tns-c247-202&quot;]/div[@class=&quot;ng-tns-c247-202 ant-tree-list-holder-inner ng-animate-disabled ng-trigger ng-trigger-treeCollapseMotion ng-star-inserted&quot;]/nz-tree-node[@class=&quot;ng-tns-c247-202 ant-tree-treenode ant-tree-treenode-switcher-close ng-star-inserted&quot;]/nz-tree-node-switcher[@class=&quot;ant-tree-switcher ant-tree-switcher_close ng-star-inserted&quot;]/span[@class=&quot;anticon ant-tree-switcher-icon anticon-caret-down ng-star-inserted&quot;]/svg[1]</value>
+      <webElementGuid>0580d5fb-4ab9-424e-8e35-02498d77eeed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notifier__notification-button-icon</value>
+      <webElementGuid>d18fde89-b0e9-4675-b31d-594e74f88a57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to expand'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>9f3e5074-15c7-4d40-b6bb-d965fa2635ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show all files'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>900aaccf-f62c-4b5b-837e-b0f54e7942c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dcube-dds-terra-extractors-source-test'])[2]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>1ab5f136-a6ec-42d9-aad4-acf6059d0d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>f055e636-b2af-4cb6-acf5-042896b2ebe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>c60d42ec-f5ac-4f18-b156-4d8da8d2a7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>f4dbaa6f-5580-435a-802c-30e4755db508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse File Location'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>20a7bc1d-be95-435c-840b-a39dbedf6d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show all files'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>10bb3c3c-5628-4c8c-8369-fbe5539917b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

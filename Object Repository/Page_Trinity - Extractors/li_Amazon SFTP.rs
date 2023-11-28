@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Amazon SFTP</name>
+   <tag></tag>
+   <elementGuidId>84effa7a-1412-47f3-89a7-72c96b2ab8c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-dropdown-menu-item.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-1']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>28fb3104-6674-4c15-89a7-a5513f4c66a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-dropdown-menu-item ng-star-inserted</value>
+      <webElementGuid>4f02d4ff-83e5-42b4-8e52-fb8b0bfcc1c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Amazon SFTP </value>
+      <webElementGuid>d86692b2-9348-4c4b-aef7-ec81344cff60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-1&quot;)/div[@class=&quot;ant-dropdown ng-trigger ng-trigger-slideMotion ng-tns-c117-183 ng-star-inserted&quot;]/ul[@class=&quot;custom-dropdown ant-dropdown-menu ant-dropdown-menu-root ant-dropdown-menu-light ant-dropdown-menu-vertical ng-tns-c117-183&quot;]/li[@class=&quot;ant-dropdown-menu-item ng-star-inserted&quot;]</value>
+      <webElementGuid>12aa3503-e774-4184-82c4-0ea1af144ab8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-1']/div/ul/li</value>
+      <webElementGuid>280d1b71-1afc-415e-9f31-3cf04184f1dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Linux File Server'])[1]/following::li[1]</value>
+      <webElementGuid>cd05d48f-4879-499e-87f5-cbafa966bb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Cloud'])[1]/following::li[1]</value>
+      <webElementGuid>51e816a0-fc11-4b93-af1d-0232947647fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Amazon SFTP']/parent::*</value>
+      <webElementGuid>93a21756-344e-4282-af83-4aafab5bbef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li</value>
+      <webElementGuid>994a3852-d856-4bd9-b0ad-1daffedb3821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Amazon SFTP ' or . = ' Amazon SFTP ')]</value>
+      <webElementGuid>0e001468-4cc3-46a2-b20c-8d8b90492317</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

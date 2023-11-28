@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Amazon S3</name>
+   <tag></tag>
+   <elementGuidId>4073e6b6-c907-4990-a8ac-a8c6c5052529</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-11']/div/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ea2345cc-77cc-425b-a407-5bf2615972ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-dropdown-menu-item ng-star-inserted</value>
+      <webElementGuid>f38edfdf-6efc-43e1-b720-0de08679020f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Amazon S3 </value>
+      <webElementGuid>1f1fd2c9-8901-4a45-b487-ad94022fd83d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-11&quot;)/div[@class=&quot;ant-dropdown ng-trigger ng-trigger-slideMotion ng-tns-c117-204 ng-star-inserted&quot;]/ul[@class=&quot;custom-dropdown ant-dropdown-menu ant-dropdown-menu-root ant-dropdown-menu-light ant-dropdown-menu-vertical ng-tns-c117-204&quot;]/li[@class=&quot;ant-dropdown-menu-item ng-star-inserted&quot;]</value>
+      <webElementGuid>ed2d6065-0224-4963-bfd1-75115393ff33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-11']/div/ul/li[3]</value>
+      <webElementGuid>a2aebcf1-2e41-4f8c-aae3-c47ad205b393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Redshift'])[1]/following::li[1]</value>
+      <webElementGuid>b3a191a1-d12d-4cc4-8334-35d7cf09f777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Athena'])[1]/following::li[2]</value>
+      <webElementGuid>a5bc6363-47dc-4d0c-9083-b164d33c7e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Amazon S3']/parent::*</value>
+      <webElementGuid>ecddc9f3-c104-4a94-90ef-6745217922e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[3]</value>
+      <webElementGuid>c62b814a-f38f-4cc3-ba9f-7d10dd6024bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Amazon S3 ' or . = ' Amazon S3 ')]</value>
+      <webElementGuid>48767411-616d-4f8a-9c9f-81f21d442dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-10']/div/ul/li[3]</value>
+      <webElementGuid>44a42d75-0d40-4532-8b4c-b447bd4a5d62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_amazonsftp_s3_overwrite</name>
+   <tag></tag>
+   <elementGuidId>8215eeae-042d-4a8a-ba99-a9a07b6172e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell > div > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'amazonsftp_s3_overwrite')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a7267c2b-9d66-4461-b84e-c87c7315b383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>router-link-active</value>
+      <webElementGuid>fd19903d-57bf-4c07-8047-5f2f85579b8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/workflows/edit/10002267</value>
+      <webElementGuid>895b4e65-d8c9-4d3e-b968-ca9da753a404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> amazonsftp_s3_overwrite </value>
+      <webElementGuid>cae65c26-5f04-45d2-bfb4-9569d78005f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout app-layout ant-layout-has-sider ng-star-inserted&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/div[1]/nz-content[@class=&quot;nz_content ant-layout-content&quot;]/div[@class=&quot;inner-content&quot;]/app-workflow-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-continer&quot;]/nz-table[@class=&quot;ant-table-wrapper table-page&quot;]/nz-spin[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container ng-star-inserted&quot;]/div[@class=&quot;ant-table&quot;]/nz-table-inner-default[@class=&quot;ant-table-container ng-star-inserted&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody ng-star-inserted&quot;]/tr[@class=&quot;ant-table-row ng-star-inserted&quot;]/td[@class=&quot;ant-table-cell&quot;]/div[1]/a[1]</value>
+      <webElementGuid>f56d68af-7e07-462e-9f1d-785219d7225e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'amazonsftp_s3_overwrite')]</value>
+      <webElementGuid>6c4fff55-0fa4-4182-92c0-0ca3a2a63d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::a[2]</value>
+      <webElementGuid>af167a49-5a7d-43a3-8fb1-ae2f1526d1fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created At'])[1]/following::a[2]</value>
+      <webElementGuid>3e386ac7-8913-49ef-8bc0-c581db5d65ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ga'])[2]/preceding::a[1]</value>
+      <webElementGuid>1ee24080-69ed-4df4-a348-2b4a471b95f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon SFTP'])[1]/preceding::a[1]</value>
+      <webElementGuid>bea0a7a5-5d70-40d5-8fec-1f6f2c5c5859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='amazonsftp_s3_overwrite']/parent::*</value>
+      <webElementGuid>4d7cc7ba-64f5-4757-8c32-647f9b126420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/workflows/edit/10002267')]</value>
+      <webElementGuid>1277da67-d44f-4c2b-90cc-c646a893c7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/a</value>
+      <webElementGuid>bb9e1cd8-6155-4839-9272-633f97cc16dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/workflows/edit/10002267' and (text() = ' amazonsftp_s3_overwrite ' or . = ' amazonsftp_s3_overwrite ')]</value>
+      <webElementGuid>c10a63eb-103d-4538-a98a-7d636f81d1c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

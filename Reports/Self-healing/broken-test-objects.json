@@ -1,3 +1,234 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Iris/Page_Trinity - Iris/img_1",
+      "brokenLocator": "//img[@alt\u003d\u0027filter\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Iris/Page_Trinity - Iris/img_1_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Iris/Page_Trinity - Iris/input_Workflow_mat-input-2",
+      "brokenLocator": "/html/body/app-root/app-workflow/app-main-nav/mat-sidenav-container/mat-sidenav-content/div/div[1]/div/div[2]/div/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//mat-form-field/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Iris/Page_Trinity - Iris/input_Workflow_mat-input-2_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Iris/Page_Trinity - Iris/span_Apply",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-1\u0027]/div/div/div[2]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Iris/Page_Trinity - Iris/span_Apply_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Iris/input_Databricks_database",
+      "brokenLocator": "#database",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027database\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Iris/input_Databricks_database_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Iris/span_2810_test_tbl",
+      "brokenLocator": "//mat-option[@id\u003d\u0027mat-option-303\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027a_data_emp\u0027])[1]/preceding::span[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Iris/span_2810_test_tbl_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Iris/div_2810_test_tbl",
+      "brokenLocator": "//div[@id\u003d\u0027example_3_step_1698926756178\u0027]/div/div/div[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Comment:\u0027])[1]/preceding::div[14]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Iris/div_2810_test_tbl_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_AWS",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-0\u0027]/nz-modal-container/div/div/div[2]/div/div/div[3]/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Salesforce\u0027])[1]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_AWS_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/span_Date_Transformation.csv",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-7\u0027]/nz-modal-container/div/div/div[2]/div/div[2]/nz-tree/div[3]/div/nz-tree-node[2]/nz-tree-node-title/span/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027dcube-dds-terra-extractors-source-test\u0027])[2]/following::span[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/span_Date_Transformation.csv_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/button_Choose",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-7\u0027]/nz-modal-container/div/div/div[3]/button[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/button_Choose_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/nz-option-item_True",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-8\u0027]/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Next\u0027])[1]/following::nz-option-item[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/nz-option-item_True_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_AWS",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-0\u0027]/nz-modal-container/div/div/div[2]/div/div/div[3]/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Microsoft Azure\u0027])[1]/preceding::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_AWS_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/li_Amazon S3",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-10\u0027]/div/ul/li[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Amazon Redshift\u0027])[1]/following::li[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/li_Amazon S3_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_S3_Target",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-11\u0027]/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item[2]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Amazon_SFTP_source\u0027])[2]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_S3_Target_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_dcube-dds-terra-extractors-target-test",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-12\u0027]/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027dcube-dds-terra-extractors-target-test\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_dcube-dds-terra-extractors-target-test_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/span_Next",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Public\u0027])[1]/following::span[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Next\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/span_Next_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_Complete",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-13\u0027]/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Complete\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_Complete_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_Append",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-14\u0027]/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Next\u0027])[1]/following::div[8]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_Append_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_default",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-15\u0027]/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item[12]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//nz-option-item[12]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_default_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_Completeness",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-16\u0027]/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Next\u0027])[1]/following::div[8]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_Completeness_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_Not Null",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-17\u0027]/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Next\u0027])[1]/following::div[8]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_Not Null_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/div_Amazon_SFTP_source",
+      "brokenLocator": "/html/body/app-root/nz-layout/nz-layout/div/nz-content/div/app-workflow-list/div[1]/div[1]/nz-input-group/input",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Amazon_SFTP_source\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/div_Amazon_SFTP_source_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/Page_Trinity - Extractors/div_AWS",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-0\u0027]/nz-modal-container/div/div/div[2]/div/div/div[3]/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Salesforce\u0027])[1]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/Page_Trinity - Extractors/div_AWS_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Trinity - Extractors/Page_Trinity - Extractors/li_Amazon SFTP",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-1\u0027]/div/ul/li",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Amazon SFTP\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Trinity - Extractors/Page_Trinity - Extractors/li_Amazon SFTP_neighbor.png"
+    }
+  ]
 }

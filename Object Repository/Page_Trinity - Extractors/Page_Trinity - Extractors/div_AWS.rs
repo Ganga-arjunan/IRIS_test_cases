@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AWS</name>
+   <tag></tag>
+   <elementGuidId>cb49e1be-c191-4358-b769-e8476ac84fd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/nz-modal-container/div/div/div[2]/div/div/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76eabd68-c85b-4023-a75b-84be03e194fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name-div</value>
+      <webElementGuid>bdfc4309-7458-49e4-b684-3e19c11d38a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> AWS </value>
+      <webElementGuid>f9f9a623-fd52-4a60-a4fb-7c1195baccad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nz-modal-container[@class=&quot;ng-tns-c72-181 ng-trigger ng-trigger-modalContainer ant-modal-wrap ng-star-inserted&quot;]/div[@class=&quot;ant-modal ng-tns-c72-181&quot;]/div[@class=&quot;ant-modal-content ng-tns-c72-181&quot;]/div[@class=&quot;ant-modal-body ng-tns-c72-181&quot;]/div[@class=&quot;modal-content ng-star-inserted&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;gutter-row ant-col ant-col-8 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ant-dropdown-trigger conn-item ng-star-inserted&quot;]/div[@class=&quot;name-div&quot;]</value>
+      <webElementGuid>fb1a8ab0-6856-464a-93d6-72ef95c6a459</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nz-modal-container/div/div/div[2]/div/div/div[3]/div/div/div</value>
+      <webElementGuid>1d21df7e-9c4a-498e-a715-fe27a0e7d115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesforce'])[1]/following::div[4]</value>
+      <webElementGuid>6a52ad72-7d8e-4289-beb2-4e019fa07c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RDBMS'])[1]/following::div[8]</value>
+      <webElementGuid>c4025a1e-9eda-40c9-b921-a04348880ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft Azure'])[1]/preceding::div[1]</value>
+      <webElementGuid>854ae4ff-53d6-4c2b-842c-6ae50bee0edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Cloud'])[1]/preceding::div[5]</value>
+      <webElementGuid>ed5281c9-bdf4-4399-a811-8da6f30197eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AWS']/parent::*</value>
+      <webElementGuid>1e6c35c9-ec3e-4fd7-93de-43cc4700fb60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>ce721529-4143-4fba-abec-54f1b600f4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' AWS ' or . = ' AWS ')]</value>
+      <webElementGuid>75c311a6-9cbe-47e0-b9bc-779ff1f0a49e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

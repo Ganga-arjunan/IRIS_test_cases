@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DatabricksSnowflake-ClusterAngularAmazo_252440</name>
+   <tag></tag>
+   <elementGuidId>739d1118-c539-4430-b84e-047a32b5895b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-panel-wrap.ng-tns-c114-15.ng-trigger.ng-trigger-transformPanelWrap.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-1']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b564598c-ee74-4d3d-83aa-ab26bc9c7868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-panel-wrap ng-tns-c114-15 ng-trigger ng-trigger-transformPanelWrap ng-star-inserted</value>
+      <webElementGuid>f5ef884a-5065-4859-a865-143e1d892f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DatabricksSnowflake-ClusterAngularAmazon_EMRspark_upgradationPythonAmazon_Emr_Demo</value>
+      <webElementGuid>9625e961-b58a-4cf9-9f4d-2a38bed5f0ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-1&quot;)/div[@class=&quot;mat-select-panel-wrap ng-tns-c114-15 ng-trigger ng-trigger-transformPanelWrap ng-star-inserted&quot;]</value>
+      <webElementGuid>6b48f84f-6e77-4c2d-bf1b-a7f3c9cf0149</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-1']/div</value>
+      <webElementGuid>cb47afac-899a-41d2-a39e-d02bbf817cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[10]</value>
+      <webElementGuid>7d47719b-79f7-4169-a636-78ab716d0d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[12]</value>
+      <webElementGuid>eea3cbee-b68a-4763-8d09-c1748ff19446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>78648e26-edc2-4a4a-a83f-7bfe373e2902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DatabricksSnowflake-ClusterAngularAmazon_EMRspark_upgradationPythonAmazon_Emr_Demo' or . = 'DatabricksSnowflake-ClusterAngularAmazon_EMRspark_upgradationPythonAmazon_Emr_Demo')]</value>
+      <webElementGuid>8f01cc8b-18f5-48ed-a8f1-3b35539c67a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

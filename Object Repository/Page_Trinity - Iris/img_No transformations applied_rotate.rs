@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_No transformations applied_rotate</name>
+   <tag></tag>
+   <elementGuidId>8dd4d9a8-364b-4cf0-931a-3e9b14814889</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.data-container > div > div.fixed_img > img.rotate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-1']/app-popup/div/div[3]/div[2]/div/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7f06032c-3f09-4239-8580-d8f059bc7889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../assets/spinner.svg</value>
+      <webElementGuid>4b30676f-8a50-47b8-afe5-9ed56f67b143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rotate</value>
+      <webElementGuid>0fbe9b0b-9245-4d7f-b269-bdcb262833e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-1&quot;)/app-popup[@class=&quot;ng-star-inserted&quot;]/div[1]/div[@class=&quot;wrangle_page_data&quot;]/div[2]/div[1]/div[@class=&quot;data-container&quot;]/div[1]/div[@class=&quot;fixed_img&quot;]/img[@class=&quot;rotate&quot;]</value>
+      <webElementGuid>f7f35786-957c-4a8c-9f0d-c76b8ecdd93a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-1']/app-popup/div/div[3]/div[2]/div/div/div/div/img</value>
+      <webElementGuid>0310fb33-eed1-4864-9f50-00f53b95939d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/img</value>
+      <webElementGuid>c72fd430-8c92-4504-b10d-d499d95a1831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../assets/spinner.svg']</value>
+      <webElementGuid>f2f4b8d5-6536-4395-ac11-cbeb3b87d166</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

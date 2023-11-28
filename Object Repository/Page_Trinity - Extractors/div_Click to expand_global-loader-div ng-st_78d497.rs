@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Click to expand_global-loader-div ng-st_78d497</name>
+   <tag></tag>
+   <elementGuidId>81202296-7650-43f3-b912-e00eafe10a57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.global-loader-div.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-7']/nz-modal-container/div/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e676f0b6-8eb8-4cf6-922f-e0f6b0a441e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>global-loader-div ng-star-inserted</value>
+      <webElementGuid>449af61d-e5f8-4c7f-9645-986a4e6e02c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-7&quot;)/nz-modal-container[@class=&quot;ng-tns-c72-200 ng-trigger ng-trigger-modalContainer ant-modal-wrap ng-star-inserted&quot;]/div[@class=&quot;ant-modal ng-tns-c72-200&quot;]/div[@class=&quot;ant-modal-content ng-tns-c72-200&quot;]/div[@class=&quot;ant-modal-body ng-tns-c72-200&quot;]/div[@class=&quot;modal-content ng-star-inserted&quot;]/div[@class=&quot;global-loader-div ng-star-inserted&quot;]</value>
+      <webElementGuid>a784c33b-2be2-4545-abd1-ecc9339e0b66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-7']/nz-modal-container/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>6da4bcd2-1796-4166-ae89-dc90fd244ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to expand'])[1]/following::div[1]</value>
+      <webElementGuid>f69258b6-a5d0-4aec-863c-b760f69c975e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show all files'])[1]/following::div[2]</value>
+      <webElementGuid>1a8388c6-f8c4-45ca-8c3f-c848e9376925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[2]</value>
+      <webElementGuid>7331f052-b379-45d0-901c-4aeebe2f2493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose'])[1]/preceding::div[2]</value>
+      <webElementGuid>86cccbb6-002d-4b37-a633-6786ba5b8574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div[2]</value>
+      <webElementGuid>72437c13-eddd-4bbb-871b-0ded4177e995</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

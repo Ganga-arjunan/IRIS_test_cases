@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Custom</name>
+   <tag></tag>
+   <elementGuidId>677cb931-9888-4d78-a996-a4bec3d6df6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.ant-menu-item-selected > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Extractors'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a4296f4-9b70-46ae-b799-0c1bc7610032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/workflows</value>
+      <webElementGuid>b709295a-c983-43b6-912c-368aabb12684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/workflows</value>
+      <webElementGuid>92623f6f-58e1-4d20-988b-515a760be940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Custom</value>
+      <webElementGuid>8868aa8a-b037-45f7-a15d-c964af2caf9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout app-layout ant-layout-has-sider ng-star-inserted&quot;]/nz-sider[@class=&quot;ant-layout-sider menu-sidebar ant-layout-sider-dark&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-light ant-menu-inline&quot;]/li[@class=&quot;menu-header-title ant-menu-submenu ant-menu-submenu-open ant-menu-submenu-inline ant-menu-submenu-active ant-menu-submenu-selected&quot;]/div[@class=&quot;ant-menu ant-menu-inline ant-menu-sub ng-tns-c38-5 ng-trigger ng-trigger-collapseMotion ng-star-inserted&quot;]/ul[@class=&quot;ng-star-inserted&quot;]/li[@class=&quot;ant-menu-item ant-menu-item-selected&quot;]/a[1]</value>
+      <webElementGuid>04ac6eeb-9c32-4332-a4fd-2a869492ca30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extractors'])[1]/following::a[1]</value>
+      <webElementGuid>a5cc4395-d3bf-4f8d-b26d-3cec069960d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Migration'])[1]/following::a[1]</value>
+      <webElementGuid>067b7d60-b319-4464-be71-08d4e4a3d1ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre-Built'])[1]/preceding::a[1]</value>
+      <webElementGuid>71eecebb-fa10-4492-82b1-4e6ebf6b40b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/workflows')]</value>
+      <webElementGuid>104c0faa-1138-4f28-bd9d-ebec31163fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[2]/ul/li/a</value>
+      <webElementGuid>99f5fe6f-d2ca-4a24-bf49-a7142948b225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/workflows' and (text() = 'Custom' or . = 'Custom')]</value>
+      <webElementGuid>13808c82-bc1f-498d-b5f0-b74486fa3c10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

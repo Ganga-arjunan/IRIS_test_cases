@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Databricks_cluster-icons ng-star-insert_855733</name>
+   <tag></tag>
+   <elementGuidId>ddd4c318-5a33-44d6-971e-67aa3a54e643</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.cluster-icons.ng-star-inserted.cluster_on</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Interpreter and Cluster Status']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c094213b-46d3-40b9-b7b8-f6dee017e8d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Interpreter and Cluster Status</value>
+      <webElementGuid>ac35fe48-ed75-44f4-b2c5-12313581ba19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../assets/cluster_icons/databricksCluster.png</value>
+      <webElementGuid>160ed547-6fc6-4706-ad0b-64d3c0617284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cluster-icons ng-star-inserted cluster_on</value>
+      <webElementGuid>9f655a93-adb6-49b5-b85e-fd6f1758aee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-37</value>
+      <webElementGuid>ec72e431-16dc-4cf9-8c9d-29021d201384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-workflow[@class=&quot;ng-star-inserted&quot;]/app-main-nav[1]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;table_selection&quot;]/div[@class=&quot;sticky-container&quot;]/div[@class=&quot;select-options-two&quot;]/div[@class=&quot;cluster-icons-container&quot;]/img[@class=&quot;cluster-icons ng-star-inserted cluster_on&quot;]</value>
+      <webElementGuid>b7cda9b3-12c2-4f99-80c9-a13c1c4980fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Interpreter and Cluster Status']</value>
+      <webElementGuid>73bdbba9-25fa-41ea-a900-4fa7d4ec6ff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>7bee8b9c-273b-4c9c-876f-346c30e161ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Interpreter and Cluster Status' and @src = '../../assets/cluster_icons/databricksCluster.png']</value>
+      <webElementGuid>f145cbc6-f6d9-454e-88ca-98b0f3296d38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_S3_Target</name>
+   <tag></tag>
+   <elementGuidId>a091e69e-be4f-4d46-a870-684235f7e652</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nz-option-item.ant-select-item.ant-select-item-option.ng-star-inserted.ant-select-item-option-active > div.ant-select-item-option-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-11']/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00ecb722-780d-4fe2-b303-b6cddc6b0965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>660b8aff-65ec-4861-96f7-b11066c0562f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S3_Target</value>
+      <webElementGuid>d0377901-819e-42fc-91c1-1362c385fba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-11&quot;)/nz-option-container[@class=&quot;ant-select-dropdown ng-tns-c133-175 ant-select-dropdown-placement-bottomLeft ng-trigger ng-trigger-slideMotion ng-star-inserted&quot;]/div[1]/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport cdk-virtual-scrollable cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/nz-option-item[@class=&quot;ant-select-item ant-select-item-option ng-star-inserted ant-select-item-option-active&quot;]/div[@class=&quot;ant-select-item-option-content&quot;]</value>
+      <webElementGuid>b1917679-4e1e-4d88-8655-e33958398604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-11']/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item[2]/div</value>
+      <webElementGuid>53fc5e20-9591-4689-917a-af3b0b4fb0b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon_SFTP_source'])[2]/following::div[1]</value>
+      <webElementGuid>c1e4c278-cfb1-44c2-9b73-12ad47a2b9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[9]</value>
+      <webElementGuid>f79edbd2-2d27-4d57-ae4b-da1da7cc07f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redshift_test'])[1]/preceding::div[1]</value>
+      <webElementGuid>ed4ea75e-39dc-4091-81ac-8dd3786fac81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='amazon_sftp_r'])[1]/preceding::div[2]</value>
+      <webElementGuid>e7a3a1f6-f50e-4db4-9034-19bd6d0fa863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='S3_Target']/parent::*</value>
+      <webElementGuid>ebfba781-0537-46f5-863a-34cb9170c249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-option-item[2]/div</value>
+      <webElementGuid>38ae32fe-7448-4f60-8a49-8afa69dd6a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'S3_Target' or . = 'S3_Target')]</value>
+      <webElementGuid>c9e873dc-fecc-4697-b4d6-c16461bfc6b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

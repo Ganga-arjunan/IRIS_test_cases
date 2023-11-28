@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-pseudo-checkbox_spark_upgradation_mat-p_60f7fc</name>
+   <tag></tag>
+   <elementGuidId>46fa8b53-e26f-496b-bc80-d8cb675cd175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-13 > mat-pseudo-checkbox.mat-pseudo-checkbox.mat-option-pseudo-checkbox.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-13']/mat-pseudo-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-pseudo-checkbox</value>
+      <webElementGuid>5fa350db-7d83-4a3e-973c-1a0cb8b1d5f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-pseudo-checkbox mat-option-pseudo-checkbox ng-star-inserted</value>
+      <webElementGuid>813cb9d1-5eb2-4680-a792-697fdd11a9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-13&quot;)/mat-pseudo-checkbox[@class=&quot;mat-pseudo-checkbox mat-option-pseudo-checkbox ng-star-inserted&quot;]</value>
+      <webElementGuid>11701dfa-ea6e-4014-a115-a735b55f7fcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-13']/mat-pseudo-checkbox</value>
+      <webElementGuid>763a5790-5f72-4ea3-ad97-d39caaca6f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[6]/mat-pseudo-checkbox</value>
+      <webElementGuid>62d5c57d-4ff2-4a08-9c98-d1bced333f32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

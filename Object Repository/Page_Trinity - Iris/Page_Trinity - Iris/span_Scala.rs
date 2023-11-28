@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Scala</name>
+   <tag></tag>
+   <elementGuidId>193ad916-ea31-4ea5-93dc-1f60c93b2c5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.language-type-holder > div:nth-of-type(2) > mat-radio-group.mat-radio-group > div.active-cluster.ng-star-inserted > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fa662df3-61b3-4dc7-9966-0007e91afec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scala</value>
+      <webElementGuid>87d414f6-6f25-46a2-8e8c-67c06ca26b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-job-form[@class=&quot;ng-star-inserted&quot;]/app-main-nav[1]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-item&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;toggle-btns-holder&quot;]/div[@class=&quot;language-type-holder&quot;]/div[2]/mat-radio-group[@class=&quot;mat-radio-group&quot;]/div[@class=&quot;active-cluster ng-star-inserted&quot;]/span[1]</value>
+      <webElementGuid>18c0d8b9-356e-4c6a-8c9f-a40c42fdfbbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[1]</value>
+      <webElementGuid>c07851d2-c9d6-477e-a3dc-68e4cf6a83a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Python'])[1]/preceding::span[1]</value>
+      <webElementGuid>f15fa5eb-1b2e-41ae-9f63-da0468a494fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workflow Permissions'])[1]/preceding::span[2]</value>
+      <webElementGuid>5ceabe31-07d7-4843-b993-9a48333c01e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scala']/parent::*</value>
+      <webElementGuid>9e3e74b6-0828-4dbf-bbc6-2974e747e2b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/mat-radio-group/div/span</value>
+      <webElementGuid>6fb5ad63-c28e-4636-b43a-6fb9598625aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Scala' or . = 'Scala')]</value>
+      <webElementGuid>7985b75f-8c21-4a78-ae64-1c96cc4463ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
